@@ -1,2 +1,24 @@
-# Arts-gallery-database-management
-The main aim of the project is the management of the database of ART GALLERY. This project is insight into the design and implementation of a Art Gallery Management. This is done by creating a database of the available details in Art Gallery. The primary aim of this Art Gallery Management System is to improve accuracy and enhance safety and efficiency of tracking and keeping details of art and paintings in art gallery. I have developed this software for ensuring effective policing by providing statistics of the Members. The MYSQL database is used as a platform along with PHP and WAMP Server support. Application and the GUI are developed in HTML5, CSS3 using PHP and WAMP Server. Overall this Art Gallery Management System is used to manage most art related activities like exhibitions, gallery management, art stocks etc. in gallery.
+# ART GALLERY DATABASE MANAGEMENT
+This project is about Art Gallery Database management system. This is basically consist of management of Users and Gallery database. This project manages orders, shows customer's , artist's, artwork's details.
+I've also included the SQL file so that all you've to do is import this in database module.
+
+ <b>FEATURES</b>\
+ *Store data on artist*\
+    >Name<br>
+    >Birthplace\
+    >Style of art - pop art, fauvinism etc.\
+ *Store data on art work*\
+    >Title\
+    >Artist\
+    >Year it was made\
+    >Type - painting/lithograph/sculpture/photograph\
+    >Prices\
+ *Store data on customers*\
+    >Name\
+    >Address\
+    >Phone\
+    >Preferences of artists\
+    >Preferences of group of art\
+ *Support for related queries*\
+ 
+If you've any query regarding this project then just mail me at iaashu98@gmail.com. I'm available there.
